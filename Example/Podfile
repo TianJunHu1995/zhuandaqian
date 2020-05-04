@@ -1,0 +1,6 @@
+use_frameworks!
+target 'zhuandaqian_Tests' do
+  pod 'zhuandaqian', :path => '../'
+  
+  
+end
