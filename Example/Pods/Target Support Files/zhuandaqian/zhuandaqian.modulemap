@@ -1,0 +1,6 @@
+framework module zhuandaqian {
+  umbrella header "zhuandaqian-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "zhuandaqian",
+  "version": "0.1.0",
+  "summary": "A short description of zhuandaqian.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TianJunHu1995/zhuandaqian",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TianJunHu1995": "18338527738@163.com"
+  },
+  "source": {
+    "git": "https://github.com/TianJunHu1995/zhuandaqian.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "zhuandaqian/Classes/**/*"
+}

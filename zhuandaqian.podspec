@@ -30,8 +30,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'zhuandaqian/Classes/**/*'
+  s.source_files = 'zhuandaqian/Classes/*'
   
+  s.dependency 'AFNetworking'
+  s.dependency 'SVProgressHUD'
   # s.resource_bundles = {
   #   'zhuandaqian' => ['zhuandaqian/Assets/*.png']
   # }

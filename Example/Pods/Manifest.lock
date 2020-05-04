@@ -1,0 +1,16 @@
+PODS:
+  - zhuandaqian (0.1.0)
+
+DEPENDENCIES:
+  - zhuandaqian (from `../`)
+
+EXTERNAL SOURCES:
+  zhuandaqian:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zhuandaqian: f3b0f4e0aeab556ce8593abd0f7a383d9e576065
+
+PODFILE CHECKSUM: b28a5f90e78d678ff4d9df7da0a0cb62fa033489
+
+COCOAPODS: 1.9.1
